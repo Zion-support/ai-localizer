@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Localizer
 
-**ai-localizer** is part of the Zion Tech Group app network (630+ apps).
+Continuous AI localization for apps & sites.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Content & Marketing](https://github.com/Zion-support/zion-network/blob/main/network/content-marketing.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [ai-content-translator](https://github.com/Zion-support/ai-content-translator) · [zion-ai-localization-ops](https://github.com/Zion-support/zion-ai-localization-ops) · [zion-ai-translation-hub](https://github.com/Zion-support/zion-ai-translation-hub) · [zion-i18n-ai-checker](https://github.com/Zion-support/zion-i18n-ai-checker) · [zion-multilingual-ai-checker](https://github.com/Zion-support/zion-multilingual-ai-checker)
 
-## Related apps
-- [ai-content-translator](https://github.com/Zion-support/ai-content-translator) — Multilingual content translation
-- [zion-ai-translation-hub](https://github.com/Zion-support/zion-ai-translation-hub) — Enterprise localization
-- [zion-ai-localization-ops](https://github.com/Zion-support/zion-ai-localization-ops) — Continuous i18n/l10n pipeline
-- [zion-multilingual-ai-checker](https://github.com/Zion-support/zion-multilingual-ai-checker) — i18n gap analysis
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
